@@ -1,0 +1,7 @@
+flask
+twilio
+google-generativeai
+groq
+python-dotenv
+firebase-admin
+gunicorn
